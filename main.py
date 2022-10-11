@@ -1,8 +1,3 @@
-from ast import Index
-from typing_extensions import Self
-from unittest import result
-
-
 class matrix(object):
     def __init__(self, value:list):
         self.value = value
